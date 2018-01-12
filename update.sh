@@ -1,16 +1,16 @@
-#    ______              _      _           _______                   
-#   |  ____|            (_)    | |         |__   __|                  
-#   | |__ ___  ___   ___ _  ___| |_ _   _     | | ___  __ _ _ __ ___  
-#   |  __/ __|/ _ \ / __| |/ _ \ __| | | |    | |/ _ \/ _` | '_ ` _ \ 
+#    ______              _      _           _______
+#   |  ____|            (_)    | |         |__   __|
+#   | |__ ___  ___   ___ _  ___| |_ _   _     | | ___  __ _ _ __ ___
+#   |  __/ __|/ _ \ / __| |/ _ \ __| | | |    | |/ _ \/ _` | '_ ` _ \
 #   | |  \__ \ (_) | (__| |  __/ |_| |_| |    | |  __/ (_| | | | | | |
 #   |_|  |___/\___/ \___|_|\___|\__|\__, |    |_|\___|\__,_|_| |_| |_|
-#                                    __/ |                            
-#                                   |___/           
+#                                    __/ |
+#                                   |___/
 #
 #Greet's To
-#IcoDz - Canejo              
-#Tool For Hacking 
-#Authors : Manisso
+#IcoDz - Canejo
+#Tool For Hacking
+#Authors : thehappydinoaa
 
 clear
 
@@ -30,19 +30,19 @@ cd /etc/
 
 clear
 
-sudo rm -rf /etc/Manisso
+sudo rm -rf /etc/thehappydinoaa
 
 clear
 
-mkdir Manisso
+mkdir thehappydinoaa
 
 clear
 
-cd Manisso
+cd thehappydinoaa
 
 clear
 
-git clone https://github.com/Manisso/fsociety.git
+git clone https://github.com/thehappydinoaa/fsociety.git
 
 clear
 
